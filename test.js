@@ -1,1 +1,1 @@
-const processarPessoas = require ('./desafio.js');
+const processarPessoas = require ('./ classificarPessoas.js');
