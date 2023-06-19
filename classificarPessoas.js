@@ -30,7 +30,7 @@ function classificarPessoas(pessoas) {
   const pessoas = [
     { nome: 'João Victor', idade: 10, email: 'sarrafjoao@gmail.com' },
     { nome: 'Rebeca Borges', idade: 15, email: 'borgesrebeca40@gmail.com' },
-    { nome: 'Elton Lima', idade: 20, email: 'lanotle@gmail.com' },
+    { nome: 'Elton Lima', idade: 20, email: 'elton@mentoria.com' },
   ];
   
   const totalPessoas = classificarPessoas(pessoas);
